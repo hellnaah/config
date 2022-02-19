@@ -1,0 +1,13 @@
+osversion: 2.0.1
+availabilityZone: SE
+terraform:
+  -
+    version : 1.12
+    cloud: aws
+    account: 23972045
+    environment: dev
+  -
+    version : 1.12
+    cloud: aws
+    account: 975173
+    environment: staging
