@@ -1,0 +1,7 @@
+version: 23.1
+enablePilot: true
+breadcrumbs: true
+url:
+  backendUrl: http://something
+  secureUrl: http://somethingsecure
+  notificationUrl: smtp://somethingnotification
