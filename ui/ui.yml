@@ -5,3 +5,11 @@ url:
   backendUrl: http://something
   secureUrl: http://somethingsecure
   notificationUrl: smtp://somethingnotification
+
+features:
+  - 
+    name: login
+    value: true
+  - 
+    name: logout
+    value: false
